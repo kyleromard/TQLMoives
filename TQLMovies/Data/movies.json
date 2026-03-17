@@ -1,0 +1,21 @@
+[
+  {
+    "Id": 1,
+    "Name": "The Haunted House",
+    "Category": "horror",
+    "RuntimeMinutes": 105
+  },
+  {
+    "Id": 2,
+    "Name": "Laugh Out Loud",
+    "Category": "comedy",
+    "RuntimeMinutes": 95
+  },
+  {
+    "Id": 3,
+    "Name": "Fast Action",
+    "Category": "action",
+    "RuntimeMinutes": 110
+  }
+]
+

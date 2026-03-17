@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TQLMovies.Tests/TQLMovies.Tests.csproj" />
+  <Project Path="TQLMovies/TQLMovies.csproj" />
+</Solution>
