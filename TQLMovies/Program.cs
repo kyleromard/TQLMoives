@@ -1,11 +1,7 @@
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Localization;
 using TQLMovies.Localization;
 using TQLMovies.Services;
 using TQLMovies.Middleware;
-using TQLMovies.Controllers;
-using TQLMovies.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
